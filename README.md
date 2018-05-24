@@ -3,7 +3,12 @@
 //Eduardo Sanchez, Manuel Acevedo    
 //CIS-17A
 //PROJECT - Final version
-
+/*************************************************
+ * The intention of this application is to improve
+ * online processes for shipping out orders. It gives
+ * users a more time efficient way of ordering and 
+ * recieving product.
+ *************************************************/
 
 #include <iostream>
 #include<string>
